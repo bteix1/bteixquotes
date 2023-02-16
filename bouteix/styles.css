@@ -1,13 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Playfair Display;
     background-color: #f8f8f8;
     font-weight: normal;
   }
   
   h1 {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
     color: #333;
+    font-family : Babylonica ;
   }
 
   blockquote strong {
@@ -33,7 +34,7 @@ body {
   
   footer {
     font-size: 16px; /* smaller font size */
-    font-family: Candara, sans-serif; /* Candara font */
+    font-family: Libre Baskerville , sans-serif; /* Candara font */
     text-align: right;
   }
   
@@ -62,7 +63,7 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
-    font-family: Candara, sans-serif;
+    font-family: , sans-serif;
   }
   
   .intro h1 {
