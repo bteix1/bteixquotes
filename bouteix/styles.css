@@ -1,5 +1,5 @@
 body {
-    font-family: Playfair Display;
+    font-family: Cairo ;
     background-color: #f8f8f8;
     font-weight: normal;
   }
@@ -24,7 +24,7 @@ body {
     color: #333;
     font-style: italic;
     font-size: 24px;
-    font-family: 'Tiro Telugu ', serif;
+    font-family: ' Playfair Display ', serif;
   }
   
   blockquote p {
